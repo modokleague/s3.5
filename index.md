@@ -34,15 +34,11 @@ For each hero, deck-building starts with that hero's precon and the following ru
 - You must keep at least one copy of each deck-building card from the original precon. You may replace any extra copies or add additional cards to create a deck of 40-50 cards, using standard deck-building rules. See the Hulk example below.
 - Regular uniqueness rules apply during play. For example, if your two heroes both have a Quincarrier in their precons, only one hero can have theirs in play at any given time.
 - You are not limited by any single-collection restrictions for card availability. For example, a single copy of the Beak ally was released only in the Ice-Man hero pack, but both Heroes would be allowed to include a copy of the Beak ally if the kouple chose to do so.
-<!--
-<p align="center">
-    <img src="https://hallofheroeslcg.com/wp-content/uploads/2020/06/hulkstarterdeck-1.jpg" alt="Hulk Starter Decklist" width="400">
-</p>
--->
-<figure>
+  
+<p align="center"><figure>
   <img src="https://hallofheroeslcg.com/wp-content/uploads/2020/06/hulkstarterdeck-1.jpg" alt="Hulk Starter Decklist" width="400">
-  <figcaption>This is the caption text</figcaption>
-</figure>
+  <figcaption>Example (Hulk): You may replace up to 2 copies of cards such as **Drop Kick** or **Martial Prowess** and up to 1 copy of Power of Aggression, but must keep at least 1 of each precon deck-building card. You cannot remove one-ofs, such as Brawn or Sentry. You may also add additional cards to create a deck larger than 40 cards.</figcaption>
+</figure></p>
 
 # Play Details
 
