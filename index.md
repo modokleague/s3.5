@@ -1,7 +1,5 @@
 # **MODOK LEAGUE SEASON 3.5 - KREE PRECON PARTY**
 
-# Summary
-
 MODOK League Season 3.5 is a one-round off-season event between Seasons 3 and 4. It features print-and-play content and experimental deck-building restrictions.
 
 Each kouple drafts two heroes and uses modified precons to face Klaw with the Kree Fanatic modular set. You have up to one attempt at each of the scenario's six difficulty levels, but will earn points for only the highest difficulty-level you defeat.
