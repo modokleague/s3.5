@@ -34,8 +34,15 @@ For each hero, deck-building starts with that hero's precon and the following ru
 - You must keep at least one copy of each deck-building card from the original precon. You may replace any extra copies or add additional cards to create a deck of 40-50 cards, using standard deck-building rules. See the Hulk example below.
 - Regular uniqueness rules apply during play. For example, if your two heroes both have a Quincarrier in their precons, only one hero can have theirs in play at any given time.
 - You are not limited by any single-collection restrictions for card availability. For example, a single copy of the Beak ally was released only in the Ice-Man hero pack, but both Heroes would be allowed to include a copy of the Beak ally if the kouple chose to do so.
-
-![Hulk Starter Deck](https://hallofheroeslcg.com/wp-content/uploads/2020/06/hulkstarterdeck-1.jpg)
+<!--
+<p align="center">
+    <img src="https://hallofheroeslcg.com/wp-content/uploads/2020/06/hulkstarterdeck-1.jpg" alt="Hulk Starter Decklist" width="400">
+</p>
+-->
+<figure>
+  <img src="https://hallofheroeslcg.com/wp-content/uploads/2020/06/hulkstarterdeck-1.jpg" alt="Hulk Starter Decklist" width="400">
+  <figcaption>This is the caption text</figcaption>
+</figure>
 
 # Play Details
 
@@ -55,8 +62,9 @@ Kree Fanatic was a Print and Play modular set released by Fantasy Flight Games i
 | ☆ | Standard I⁵ | – | – | Milano¹ (Ship Command) One card per identity from "The Market"⁴ |
 
 **Notes:**
+1. The Milano is the only card from Ship Command being added to the game.
 2. Kree Supremacy (side scheme) is from the Galaxy's Most Wanted campaign.
-3. Standard 1*, Expert 1* is from MODOK League Season 02 and is itemized below.
+3. Standard \1*, Expert 1\* is from MODOK League Season 02 and is itemized om a subsection below below.
 4. Each identity may add one card, with any unit cost, to their deck from "The Market" (Galaxy's Most Wanted campaign). This card does not count against card count when deck-building.
 5. Expert villain difficulty (Klaw II & III), but no Expert encounter set.
 
@@ -64,7 +72,7 @@ Kree Fanatic was a Print and Play modular set released by Fantasy Flight Games i
 
 You may play each difficulty a maximum of one time, and score points equal to the highest difficulty at which you win. It is up to you how to navigate these games. You may wish to start at the highest difficulty and then go down in levels until you win. Or you may be short on time and choose to start with an intermediate difficulty and then go from there.
 
-### The Standard 1*, Expert 1* Encounter Set
+### The Standard 1\*, Expert 1\* Encounter Set
 
 Contains one copy of each of the following:
 
