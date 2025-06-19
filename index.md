@@ -38,6 +38,7 @@ For each hero, deck-building starts with that hero's precon and the following ru
 <p align="center">
   <img src="https://hallofheroeslcg.com/wp-content/uploads/2020/06/hulkstarterdeck-1.jpg" alt="Hulk Starter Decklist" width="400">
 </p>
+
 **Example (Hulk):** You may replace up to 2 copies of cards such as **Drop Kick** or **Martial Prowess** and up to 1 copy of **Power of Aggression**, but must keep at least 1 of each precon deck-building card. You cannot remove one-ofs, such as **Brawn** or **Sentry**. You may also add additional cards to create a deck larger than 40 cards.
 
 # Play Details
