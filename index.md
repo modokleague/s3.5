@@ -15,7 +15,7 @@ All dates are 2025
 
 # The Draft
 
-Season 3.5 is a hero-only draft. Kouples will be sorted into divisions, with a maximum of 16 kouples per division. A preview of the draft-pool randomizer is available at [https://modokleague.github.io/s3.5/](https://modokleague.github.io/s3.5/)
+Season 3.5 is a hero-only draft. Kouples will be sorted into divisions, with a maximum of 16 kouples per division. A preview of the draft-pool randomizer is available at [https://modokleague.github.io/s3.5/pool.html](https://modokleague.github.io/s3.5/pool.html)
 
 All heroes up to and including Winter Soldier and Falcon are in the pool of eligible heroes, with the following exceptions:
 
@@ -47,7 +47,7 @@ You are allowed to modify your decks and practice before and in-between attempts
 
 ### The Scenario: Expert Klaw + Kree Fanatic
 
-Kree Fanatic was a Print and Play modular set released by Fantasy Flight Games in 2020: [link to Hall of Heroes entry](https://hallofheroeslcg.com/ronan-the-accuser/)
+Kree Fanatic was a Print and Play modular set released by Fantasy Flight Games in 2020: https://hallofheroeslcg.com/ronan-the-accuser/
 
 | Difficulty Level (Stars) | Encounter Set | Setup: Formidable Foe Environment | Setup: Kree Supremacy Side Scheme² | Other cards added during setup |
 |-------------------------|---------------|-----------------------------------|-----------------------------------|------------------------------|
