@@ -87,8 +87,14 @@ Contains one copy of each of the following:
     <img src="https://modokleague.wordpress.com/wp-content/uploads/2025/05/partial-annihilation.png" alt="Partial Annihilation" width="400">
 </p>
 
-![Klaw II](https://modokleague.wordpress.com/wp-content/uploads/2025/05/klaw-ii.png)
+<p align="center">
+    <img src="[https://modokleague.wordpress.com/wp-content/uploads/2025/05/partial-annihilation.png](https://modokleague.wordpress.com/wp-content/uploads/2025/05/klaw-ii.png)" alt="Klaw II" width="400">
+</p>
 
-![Klaw III](https://modokleague.wordpress.com/wp-content/uploads/2025/05/klaw-iii.png)
+<p align="center">
+    <img src="[https://modokleague.wordpress.com/wp-content/uploads/2025/05/partial-annihilation.png](https://modokleague.wordpress.com/wp-content/uploads/2025/05/klaw-iii.png))" alt="Klaw III" width="400">
+</p>
 
-![Ronan the Accuser Minion](https://modokleague.wordpress.com/wp-content/uploads/2025/05/ronan-the-accuser-minion.png)
+<p align="center">
+    <img src="https://modokleague.wordpress.com/wp-content/uploads/2025/05/ronan-the-accuser-minion.png" alt="Ronan the Accuser Minion" width="400">
+</p>
