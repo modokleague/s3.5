@@ -83,7 +83,9 @@ Contains one copy of each of the following:
 
 # Card Images
 
-![Partial Annihilation](https://modokleague.wordpress.com/wp-content/uploads/2025/05/partial-annihilation.png)
+<p align="center">
+    <img src="[assets/image.png](https://modokleague.wordpress.com/wp-content/uploads/2025/05/partial-annihilation.png)" alt="Partial Annihilation" width="300">
+</p>
 
 ![Klaw II](https://modokleague.wordpress.com/wp-content/uploads/2025/05/klaw-ii.png)
 
