@@ -88,11 +88,11 @@ Contains one copy of each of the following:
 </p>
 
 <p align="center">
-    <img src="[https://modokleague.wordpress.com/wp-content/uploads/2025/05/partial-annihilation.png](https://modokleague.wordpress.com/wp-content/uploads/2025/05/klaw-ii.png)" alt="Klaw II" width="400">
+    <img src="https://modokleague.wordpress.com/wp-content/uploads/2025/05/partial-annihilation.png](https://modokleague.wordpress.com/wp-content/uploads/2025/05/klaw-ii.png)" alt="Klaw II" width="400">
 </p>
 
 <p align="center">
-    <img src="[https://modokleague.wordpress.com/wp-content/uploads/2025/05/partial-annihilation.png](https://modokleague.wordpress.com/wp-content/uploads/2025/05/klaw-iii.png))" alt="Klaw III" width="400">
+    <img src="https://modokleague.wordpress.com/wp-content/uploads/2025/05/partial-annihilation.png](https://modokleague.wordpress.com/wp-content/uploads/2025/05/klaw-iii.png))" alt="Klaw III" width="400">
 </p>
 
 <p align="center">
