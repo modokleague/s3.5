@@ -1,10 +1,12 @@
-## Summary
+# **MODOK LEAGUE SEASON 3.5 - KREE PRECON PARTY**
+
+# Summary
 
 MODOK League Season 3.5 is a one-round off-season event between Seasons 3 and 4. It features print-and-play content and experimental deck-building restrictions.
 
 Each kouple drafts two heroes and uses modified precons to face Klaw with the Kree Fanatic modular set. You have up to one attempt at each of the scenario's six difficulty levels, but will earn points for only the highest difficulty-level you defeat.
 
-## Key Dates
+# Key Dates
 
 All dates are 2025
 
@@ -13,7 +15,7 @@ All dates are 2025
 - **Draft begins:** Thursday, July 4, 10:00 AM PDT
 - **Season ends:** Sunday, July 27, 11:59 PM PDT
 
-## The Draft
+# The Draft
 
 Season 3.5 is a hero-only draft. Kouples will be sorted into divisions, with a maximum of 16 kouples per division. A preview of the draft-pool randomizer is available at [https://modokleague.github.io/s3.5/](https://modokleague.github.io/s3.5/)
 
@@ -27,7 +29,7 @@ The draft will be asynchronous, with each kouple having 24 hours to make their p
 
 Each kouple drafts one hero when it is their selection, with the draft following a snake order (i.e., A, B, C, C, B, A).
 
-## Deck-building
+# Deck-building
 
 For each hero, deck-building starts with that hero's precon and the following rules:
 
@@ -37,7 +39,7 @@ For each hero, deck-building starts with that hero's precon and the following ru
 
 ![Hulk Starter Deck](https://hallofheroeslcg.com/wp-content/uploads/2020/06/hulkstarterdeck-1.jpg)
 
-## Play Details
+# Play Details
 
 You are allowed to modify your decks and practice before and in-between attempts, but must declare before setup that a specific game will be your official attempt at that difficulty.
 
@@ -81,7 +83,7 @@ Contains one copy of each of the following:
 - Slug It Out (Expert II)
 - Seek and Destroy (Expert II)
 
-## Card Images
+# Card Images
 
 ![Partial Annihilation](https://modokleague.wordpress.com/wp-content/uploads/2025/05/partial-annihilation.png)
 
